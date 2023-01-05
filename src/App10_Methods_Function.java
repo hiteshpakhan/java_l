@@ -26,7 +26,7 @@ public class App10_Methods_Function {
         sample("hi there"); //this is the parameter
 
         sum(5, 6);
-        
+    
     }
 
 }
