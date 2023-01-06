@@ -21,15 +21,13 @@
 //             System.out.println(i--);
 //         }
 
-
 //         // do while loop 
 //         int j = 10;
 
 //         do{
 //             System.out.println(j);
 //             j = j - 1;            
-//         }while(j >= 1);
-        
+//         }while(j >= 1);        
 
 //     }
 // }
@@ -37,7 +35,7 @@
 
 
 
-// Question : print the sum of first n natural number
+// // Question : print the sum of first n natural number
 // import java.util.*;
 
 // public class App7loops{
@@ -57,15 +55,16 @@
 
 //     }
 // }
+// // output 
+// // enter the number : 5
+// // 15
 
 
 
 
 
-// Question : print the table of a number input by the user
-
+// // Question : print the table of a number input by the user
 // import java.util.*;
-
 // public class App7loops{
 //     public static void main(String[] args){
         
@@ -73,36 +72,53 @@
 
 //         System.out.print("Enter the number : ");
 //         int n = sc.nextInt();
-
 //         for(int i = 1; i <= 10; i++){
 //             System.out.println(n * i);
 //         }
+//     }
+// }
+// // output 
+// // Enter the number : 7
+// // 7
+// // 14
+// // 21
+// // 28
+// // 35
+// // 42
+// // 49
+// // 56
+// // 63
+// // 70
+
+
+
+
+
+// // make the star pattern
+// import java.util.*;
+// public class App7loops{
+//     public static void main(String[] args){
+//         int n = 4;
+//         int m = 5;
+
+//         for(int i = 1; i<=n; i++){
+            
+//             // inner loop
+//             for(int j = 1; j <= m; j++){
+//                 System.out.print("*");
+//             }
+//             System.out.println();
+        
+//         }
+
 
 //     }
 // }
+// // output
+// // *****
+// // *****
+// // *****
+// // *****
 
 
 
-
-
-
-// make the star pattern
-import java.util.*;
-public class App7loops{
-    public static void main(String[] args){
-        int n = 4;
-        int m = 5;
-
-        for(int i = 1; i<=n; i++){
-            
-            // inner loop
-            for(int j = 1; j <= m; j++){
-                System.out.print("*");
-            }
-            System.out.println();
-        
-        }
-
-
-    }
-}
