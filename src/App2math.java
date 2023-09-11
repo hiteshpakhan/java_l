@@ -19,6 +19,8 @@ public class App2math {
         // but if you want to print a random number 
         System.out.println((int)(Math.random()*100));
 
+        // kdjnvksfiuvbhndiuvnh
+        // lsjnbvfkljnsifhbvskfj vlisnv
         
     }
 }
