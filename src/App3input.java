@@ -30,5 +30,7 @@ public class App3input {
         String b = sc.nextLine();
         System.out.println(b);
 
+        // knfnhdiognsdiolvbnsdfl
+
     }
 }
